@@ -2,6 +2,8 @@
 
 <p align="center">Data scientist. Causal inference, commercial analytics, and AI products that verify their own numbers.</p>
 
+<p align="center"><a href="https://www.credly.com/badges/5adef59b-6dd3-4dc1-bec7-ad98278b2824"><b>Claude Certified Architect, Foundations (CCA-F)</b></a> · issued by Anthropic, 2026</p>
+
 <p align="center">
   <a href="https://andey0saikiran.github.io"><b>andey0saikiran.github.io</b></a> ·
   <a href="https://linkedin.com/in/andeysaikiran">LinkedIn</a> ·
